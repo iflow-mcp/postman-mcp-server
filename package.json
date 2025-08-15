@@ -1,8 +1,7 @@
 {
-  "name": "postman-api-server",
+  "name": "@iflow-mcp/postman-mcp-server",
   "version": "0.2.0",
   "description": "an MCP server for Postman API",
-  "private": true,
   "type": "module",
   "bin": {
     "postman-api-server": "./build/index.js"
